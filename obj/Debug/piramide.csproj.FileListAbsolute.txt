@@ -1,0 +1,14 @@
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\bin\Debug\piramide.exe.config
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\bin\Debug\piramide.exe
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\bin\Debug\piramide.pdb
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\obj\Debug\piramide.csprojAssemblyReference.cache
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\obj\Debug\piramide.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\obj\Debug\piramide.exe
+C:\Users\Miguel Ibarra\Documents\brandon\piramide\piramide\obj\Debug\piramide.pdb
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\bin\Debug\piramide.exe.config
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\bin\Debug\piramide.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\bin\Debug\piramide.pdb
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\obj\Debug\piramide.csprojAssemblyReference.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\obj\Debug\piramide.csproj.CoreCompileInputs.cache
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\obj\Debug\piramide.exe
+C:\Users\Miguel Ibarra\Documents\brandon\Curso\piramide\piramide\obj\Debug\piramide.pdb
